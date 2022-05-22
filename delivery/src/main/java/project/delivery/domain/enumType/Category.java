@@ -1,0 +1,4 @@
+package project.delivery.domain.enumType;
+
+public enum Category {
+}
